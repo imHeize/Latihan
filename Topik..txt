@@ -1,0 +1,12 @@
+PENELITIAN RANCANG BANGUN APLIKASI E-COMMERCE UNTUK BOOKING ONLINE HOTEL MENGGUNAKAN LAYANAN WEB SERVICE.
+ - Judul
+  >Aplikasi e-commerce bookin online hotel
+   >Deskrpsi
+     Untuk mempermudah memesan hotel dari jauh tanpa perlu datanng ke tempat terlebih dahulu dan mempermudah layanan melalui web service.
+   >Masalah
+     Belom bisa merancang aplikasi e-commerce karena :
+     -Belom ada Flowchart
+     -Belom ada Desain yang mau dipakai seperti apa
+     -Belom ada tool yang digunakan
+     -Belom mensurvei apa masalah orang dalam melakukan booking online
+     -Belom coding
